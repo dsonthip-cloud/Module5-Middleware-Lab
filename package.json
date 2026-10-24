@@ -1,0 +1,24 @@
+{
+  "name": "module5-middleware-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsonthip-cloud/Module5-Middleware-Lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dsonthip-cloud/Module5-Middleware-Lab/issues"
+  },
+  "homepage": "https://github.com/dsonthip-cloud/Module5-Middleware-Lab#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
